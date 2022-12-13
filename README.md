@@ -15,3 +15,6 @@ SEW | ADV | Fileuploads & Projections
 ### Acceptance Criteria
 - A music player, which plays a single song at a time, is available.
 - A special projection is used to access the music data.
+
+### Hint
+- User dataurl to store your songs in the database
