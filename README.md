@@ -8,6 +8,8 @@ SEW | ADV | Fileuploads & Projections
 - The music data is stored in the database.
 - The music data is not sent to the client when accessing song information.
 
+### Hint
+- Use [data-urls](https://de.wikipedia.org/wiki/Data-URL) to store your songs in the database
 
 ## User Story 2
 *As a music enthusiast, I want to be able to listen to music online, so that I can enjoy it as soon as I find it.*
@@ -16,5 +18,3 @@ SEW | ADV | Fileuploads & Projections
 - A music player, which plays a single song at a time, is available.
 - A special projection is used to access the music data.
 
-### Hint
-- User dataurl to store your songs in the database
